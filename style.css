@@ -1,0 +1,36 @@
+.nav {
+    display: flex;
+    justify-content: end;
+    background-color: pink;
+  }
+  .nav a {
+    margin-left: 15px;
+  }
+  
+.content {
+background-color: green;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.contact-form{
+  background-color: pink;
+padding-bottom: 0%;
+margin: 0px;
+}
+.contact-form ul {
+  padding: 5px;
+  border: 5px solid green;
+}
+
+.footer {
+  padding-top: 0px;
+  background-color: green;
+}
